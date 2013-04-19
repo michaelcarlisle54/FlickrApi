@@ -18,3 +18,9 @@ Run tests
 
     phpunit -c .
 
+
+Ideato\FlickrApiBundle
+----------------------
+
+If you're using symfony you can download and install FlickerApi as a Bundle https://github.com/ideatosrl/FlickrApiBundle
+
