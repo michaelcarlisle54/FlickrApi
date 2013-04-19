@@ -22,5 +22,5 @@ Run tests
 Ideato\FlickrApiBundle
 ----------------------
 
-If you're using symfony you can download and install FlickerApi as a Bundle https://github.com/ideatosrl/FlickrApiBundle
+If you're using Symfony2 you can download and install FlickerApi as a Bundle https://github.com/ideatosrl/FlickrApiBundle
 
